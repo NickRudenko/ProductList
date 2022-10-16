@@ -1,6 +1,6 @@
 # ProductList
 
-Used achitecture is MVVM. It was selected because it require not a lot of time to implement, but it make all code more testable. Unit tests should be written later.
+Used achitecture is MVVM. It was selected because it requires not much time to implement, but it makes all code more testable. Unit tests should be written later.
 
 Dependencies: Dependencies were added with SPM(Swift Package Manager). 
 It helps easier to manage added dependencies and it is easier to understand what happens when you debugging your code.
